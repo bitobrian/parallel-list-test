@@ -1,0 +1,13 @@
+C:\Users\nairb\source\repos\parallel-list-test\parallel-list-test\bin\Debug\netcoreapp3.1\parallel-list-test.exe
+C:\Users\nairb\source\repos\parallel-list-test\parallel-list-test\bin\Debug\netcoreapp3.1\parallel-list-test.deps.json
+C:\Users\nairb\source\repos\parallel-list-test\parallel-list-test\bin\Debug\netcoreapp3.1\parallel-list-test.runtimeconfig.json
+C:\Users\nairb\source\repos\parallel-list-test\parallel-list-test\bin\Debug\netcoreapp3.1\parallel-list-test.runtimeconfig.dev.json
+C:\Users\nairb\source\repos\parallel-list-test\parallel-list-test\bin\Debug\netcoreapp3.1\parallel-list-test.dll
+C:\Users\nairb\source\repos\parallel-list-test\parallel-list-test\bin\Debug\netcoreapp3.1\parallel-list-test.pdb
+C:\Users\nairb\source\repos\parallel-list-test\parallel-list-test\obj\Debug\netcoreapp3.1\parallel-list-test.csprojAssemblyReference.cache
+C:\Users\nairb\source\repos\parallel-list-test\parallel-list-test\obj\Debug\netcoreapp3.1\parallel-list-test.AssemblyInfoInputs.cache
+C:\Users\nairb\source\repos\parallel-list-test\parallel-list-test\obj\Debug\netcoreapp3.1\parallel-list-test.AssemblyInfo.cs
+C:\Users\nairb\source\repos\parallel-list-test\parallel-list-test\obj\Debug\netcoreapp3.1\parallel-list-test.csproj.CoreCompileInputs.cache
+C:\Users\nairb\source\repos\parallel-list-test\parallel-list-test\obj\Debug\netcoreapp3.1\parallel-list-test.dll
+C:\Users\nairb\source\repos\parallel-list-test\parallel-list-test\obj\Debug\netcoreapp3.1\parallel-list-test.pdb
+C:\Users\nairb\source\repos\parallel-list-test\parallel-list-test\obj\Debug\netcoreapp3.1\parallel-list-test.genruntimeconfig.cache
